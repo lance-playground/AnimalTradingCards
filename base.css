@@ -5,6 +5,10 @@
     list-style: none;
 }
 
+body {
+    background-image: url(http://www.moviedeskback.com/wp-content/uploads/2016/03/Zootropolis-HD-wallpapers-2.jpg);
+}
+
 h1 {
     font-size: 1.5em;
     color: black;
@@ -16,7 +20,8 @@ h1 {
     border-radius: 10px;
     width: 300px;
     text-align: center;
-    box-shadow: 0 10px 30px #888888;
+    box-shadow: 0 10px 30px black;
+    background-color: white;
 }
 
 header {
